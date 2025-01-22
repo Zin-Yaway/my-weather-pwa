@@ -21,7 +21,7 @@ const App = () => {
         color: '#ffffff',
         textAlign: 'center',
         padding: '20px',
-        fontSize: '3rem'
+        fontSize: '3.5rem'
       };
 
     return (
